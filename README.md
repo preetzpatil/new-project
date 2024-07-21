@@ -1,2 +1,2 @@
 # new-project
-A new test repository
+A new test repository..
