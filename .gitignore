@@ -1,3 +1,2 @@
-error.log
-yes
-yes.pub
+*.log
+.gitignore
